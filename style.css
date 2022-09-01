@@ -1,0 +1,131 @@
+* {
+    font-family: 'Press Start 2P', cursive;
+  }
+
+  body {
+     background-image: url("img/matrix.jpg");
+     height: 100%;
+  }
+  
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    opacity: 90%;
+    position: relative;
+    top: 50px;
+}
+
+.text-input {
+  position: absolute;
+  height: 300px;
+  width: 400px;
+  top: 165px;
+  left: 200px;
+  text-transform:lowercase;
+  padding-top: 20px;
+  padding-left: 10px;
+
+  font-size: 18px;
+  color: whitesmoke;
+  border-color: darkgreen;
+  box-shadow: #350;
+  box-shadow: 3px 5px 12px #350;
+  background-image: url("img/matrix.jpg");
+  }
+  
+  .div-mensaje{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 750px;
+    top: 165px;
+    padding-top: 20px;
+    padding-left: 10px;
+    border-color: darkgreen;
+    box-shadow: #350;
+    box-shadow: 3px 5px 12px #350;
+    font-size: 20px;
+    color: whitesmoke;
+    background:transparent;
+  }
+
+  .btn-criptografar {
+    position: absolute;
+    top: 500px;
+    left: 200px;
+    width: 200px;
+    height: 40px;
+    font-size: 12px;
+    color: whitesmoke;
+    border-color: #350;
+    box-shadow: 3px 5px 12px #350;
+    background-color: darkolivegreen;
+  }
+  
+  .btn-descriptografar{  
+    position: absolute;
+    top: 500px;
+    left: 415px;
+    width: 200px;
+    height: 40px;
+    color: whitesmoke;
+    border-color: #350;
+    font-size: 12px;
+    box-shadow: 3px 5px 12px #350;
+    background-color: darkolivegreen;
+
+  }
+
+  .btn-copiar{
+    position: absolute;
+    top: 500px;
+    left: 750px;
+    width: 200px;
+    height: 40px;
+  
+    color: whitesmoke;
+    border-color: #350;
+    font-size: 12px;
+    box-shadow: 3px 5px 12px #350;
+    background-color: darkolivegreen;
+  }
+  ::placeholder { color: whitesmoke; }
+  
+  .message-box{
+  
+    background-image: url("img/matrix.jpg");
+    }
+
+  footer {
+  text-align: center;
+  margin-top: 600px;
+  margin-bottom: 3rem;
+  }
+  .redes {
+      display: inline;
+      font-size: 16px;
+      font-weight: bold;
+      color: white;
+  }
+  .redes * {
+      vertical-align: middle;
+  }
+  .redes p {
+      margin-bottom: 15px;
+  }
+  .redes a {
+      margin: 5px 15px;
+      text-decoration: none;
+      color: white;
+  }
+  .redes a:hover {
+      transition: 0.5s;
+      opacity: 70%;
+      color: #350;
+  }
+  .credito {
+      font-size: 16px;
+      font-weight: bold;
+      color: white;
+      margin-top: 15px;
+  }
