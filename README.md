@@ -8,3 +8,5 @@ Decidi mudar toda estrutura do CSS e deixar algo mais "Old" ^^.
 Foi utilizado HTML5 e CSS3 para criação de corpo e estilização da página e a lógica do encriptador foi feita em JavaScript.
 
 Boa diversão :D
+
+<a href=“https://andreacmdev.github.io/Decodificador-de-Texto/“>Decodificador de Texto</a>
